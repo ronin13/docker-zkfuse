@@ -1,5 +1,7 @@
 # docker-zkfuse
 
+![docker](http://dockeri.co/image/ronin/zkfuse)
+
  Dockerfile for FUSE provider of Zookeeper Znode namespace.
 
 ## Image
