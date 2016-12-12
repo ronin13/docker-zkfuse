@@ -1,5 +1,6 @@
 # docker-zkfuse
-
+[![](https://images.microbadger.com/badges/version/ronin/docker-zkfuse.svg)](https://microbadger.com/images/ronin/docker-zkfuse "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/ronin/docker-zkfuse.svg)](https://microbadger.com/images/ronin/docker-zkfuse "Get your own image badge on microbadger.com")
 ![docker](http://dockeri.co/image/ronin/zkfuse)
 
  Dockerfile for FUSE provider of Zookeeper Znode namespace.
